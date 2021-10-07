@@ -2,7 +2,7 @@
 let listURL = "http://api.coinlayer.com/api/list";
 let accessKey = "?access_key=4d04f68f0b1bbe70e5870147f7d83ee1";
 
-let rateURL = "http://api.coinlayer.com/api/live"
+let rateURL = "https://api.coinlayer.com/api/live"
 
 const cryptoKey = document.getElementById("cryptoKey");
 const fiatKey = document.getElementById("fiatKey");
